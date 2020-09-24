@@ -1,0 +1,9 @@
+The $image_version patch fixes the following CVEs:
+
+$CESA_list
+
+New patches included in this bundle:
+$rpm_packages
+
+Targeted release
+$targeted_releases
